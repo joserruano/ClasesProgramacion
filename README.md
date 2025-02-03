@@ -2,6 +2,20 @@
 
 ## [Enlace meet](https://meet.google.com/vhx-sikp-tjv)
 
+### Día 50 - 03/02/2025
+- Hemos resuelto:
+  - Los ejercicios 11 y 12 de la *UD3: Relación 1*.
+  - El ejercicio 2 de la *UD3: Relación 1* modificadlo de forma que hagáis 1000 tiradas de dos dados y calculéis la probabilidad de cada número.
+
+### Día 49 - 31/01/2025
+- Hemos resuelto:
+  - Programar `split()`.
+  - Los ejercicios 2 y 9 de la *UD3: Relación 1*.
+  - El ejercicios 1 de la *UD3: Relación 2*.
+- Para casa:
+  - Los ejercicios 11 y 12 de la *UD3: Relación 1*.
+  - El ejercicio 2 de la *UD3: Relación 1* modificadlo de forma que hagáis 1000 tiradas de dos dados y calculéis la probabilidad de cada número.
+
 ### Día 48 - 30/01/2025
 - Hemos resuelto los ejercicios 13, 15, 18, 19 y 20 la *UD3: Relación 0*.
 - Para casa:
