@@ -2,6 +2,27 @@
 
 ## [Enlace meet](https://meet.google.com/vhx-sikp-tjv)
 
+### Día 54 - 10/02/2025
+- Compilar en java: `javac NombreFichero.java`
+- Ejecutar en java: `java NombreFichero`
+- Hemos resuelto los ejercicios 1 y 2 de la *UD5: Relación1*
+- Para casa:
+  - Ejercicios 2 y 3 de la *UD5: Relación1*
+
+### Día 53 - 07/02/2025
+- Hemos modificado `MiPrimeritaClase.java` y añadido la clase `Perro`.
+- Para el próximo día modificamos la calse `Perro`:
+  - Modifica `setPeso` de forma que el peso solo pueda estar entre 0 y 60kg. En caso de introducir un peso fuera de rango, el peso será 0.
+  - Modifica `setEdad` de forma que la edad solo pueda estar entre 0 y 20 años. En caso de introducir una edad fuera de rango, la edad será 0.
+  - La raza debe almacenarse siempre en mayúscula. Una vez creado un perro, este no puede cambiar de raza.
+
+### Día 52 - 06/02/2025
+- Comenzamos POO
+- Hemos creado `MiPrimeritaClase.java` y la clase `Persona`
+
+### Día 51 - 04/02/2025
+- Realizamos la PT5
+
 ### Día 50 - 03/02/2025
 - Hemos resuelto:
   - Los ejercicios 11 y 12 de la *UD3: Relación 1*.
