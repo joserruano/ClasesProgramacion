@@ -36,6 +36,9 @@ class CuentaBancaria {
         return numero < 0 ? numero * -1 : numero;
     }
 
+    public String toString(){
+        return this.getTitular() + " tiene " + this.getSaldo()+"€";
+    }
 
 }
 
@@ -48,7 +51,7 @@ public class Ejercicio2 {
         cuenta1.ingresar(-5);
         cuenta2.retirar(900000);
 
-        System.out.println(cuenta1.getTitular() + " tiene " + cuenta1.getSaldo()+"€");
-        System.out.println(cuenta2.getTitular() + " tiene " + cuenta2.getSaldo()+"€");
+        System.out.println(cuenta1);
+        System.out.println(cuenta2);
     }
 }
