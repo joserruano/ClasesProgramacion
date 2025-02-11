@@ -2,12 +2,21 @@
 
 ## [Enlace meet](https://meet.google.com/vhx-sikp-tjv)
 
+### Día 55 - 11/02/2025
+- Hemos resuelto los ejercicios 3 a 6 de la *UD5: Relación1*
+- Para casa:
+  - Completar el Ejercicio 6 de la *UD5: Relación1*
+    - Que en `toString()` salgan *0s* cuando la hora, el minuto o el segundo sea menor que 10
+    - Las horas deben ser 0 - 23 y los minutos y segundos de 0 - 59
+    - Completa el método `setReloj()`
+  - Ejercicios 7 y 8 de la *UD5: Relación1*
+
 ### Día 54 - 10/02/2025
 - Compilar en java: `javac NombreFichero.java`
 - Ejecutar en java: `java NombreFichero`
 - Hemos resuelto los ejercicios 1 y 2 de la *UD5: Relación1*
 - Para casa:
-  - Ejercicios 2 y 3 de la *UD5: Relación1*
+  - Ejercicios 3 y 4 de la *UD5: Relación1*
 
 ### Día 53 - 07/02/2025
 - Hemos modificado `MiPrimeritaClase.java` y añadido la clase `Perro`.
