@@ -2,6 +2,11 @@
 
 ## [Enlace meet](https://meet.google.com/vhx-sikp-tjv)
 
+### Día 56 - 13/02/2025
+- Hemos completado el extra del ejercicio 6.
+- Hemos resuelto los ejercicios 7 a 8 de la *UD5: Relación1*.
+- Hemos resuelto la tarea del día 53.
+
 ### Día 55 - 11/02/2025
 - Hemos resuelto los ejercicios 3 a 6 de la *UD5: Relación1*
 - Para casa:
@@ -20,7 +25,7 @@
 
 ### Día 53 - 07/02/2025
 - Hemos modificado `MiPrimeritaClase.java` y añadido la clase `Perro`.
-- Para el próximo día modificamos la calse `Perro`:
+- Para casa modificamos la calse `Perro`:
   - Modifica `setPeso` de forma que el peso solo pueda estar entre 0 y 60kg. En caso de introducir un peso fuera de rango, el peso será 0.
   - Modifica `setEdad` de forma que la edad solo pueda estar entre 0 y 20 años. En caso de introducir una edad fuera de rango, la edad será 0.
   - La raza debe almacenarse siempre en mayúscula. Una vez creado un perro, este no puede cambiar de raza.

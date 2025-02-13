@@ -1,25 +1,15 @@
-package UD5.Ejemplos;
-
-// 2º Modifica setPeso de forma que el peso solo pueda estar entre 0 y 60kg. En caso de introducir un peso fuera de rango, el peso será 0.
-
-// 3º Modifica setEdad de forma que la edad solo pueda estar entre 0 y 20 años. En caso de introducir una edad fuera de rango, la edad será 0.
-
-// 4º La raza debe almacenarse siempre en mayúscula. Una vez creado un perro, este no puede cambiar de raza.
-
 public class MiPrimeritaClase {
-
-    public static String hola() {
-        return "Hola!!!!";
-    }
 
     public static void main(String[] args) {
 
-        // Persona javi = new Persona("Javi", 22, 70, 175);
-        // Persona nobita = new Persona("Nobita", 12, 40, 155);
-        // Persona doraemon = new Persona("Doraemon", -150, 400, 100);
-        // Persona sizuka = new Persona("Sizuka", 12, 40, 150);
+        // ========================= PERSONAS ===================== //
 
-        // System.out.println(sizuka.calcularIMC());
+        Persona javi = new Persona("Javi", 22, 70, 175);
+        Persona nobita = new Persona("Nobita", 12, 40, 155);
+        Persona doraemon = new Persona("Doraemon", -150, 400, 100);
+        Persona sizuka = new Persona("Sizuka", 12, 40, 150);
+
+        System.out.println(sizuka.calcularIMC());
 
         // ========================= PERROS ===================== //
 
@@ -46,8 +36,8 @@ class Perro {
 
     public Perro(String nombre, String raza, int edad, double peso) {
         this.setNombre(nombre);
-        this.raza = raza;
-        this.edad = edad;
+        this.setRaza(raza);
+        this.setEdad(edad);
         this.setPeso(peso);
     }
 
@@ -62,12 +52,30 @@ class Perro {
     }
 
     public void setPeso(double peso) {
-        this.peso = peso;
+
+        if(peso >= 0 && peso<=60){
+            this.peso = peso;
+        }else{
+            this.peso = 0;
+        }
+
+        //this.peso = (peso >= 0 && peso<=60) ? peso : 0;
+
         this.setTamanio(); // Si cambia el peso, quiero volver a calcular el tamaño
     }
 
     public double getPeso() {
         return this.peso;
+    }
+
+    public void setEdad(int edad) {
+
+        this.edad = (edad >= 0 && edad<=20) ? edad : 0;
+
+    }
+
+    private void setRaza(String raza){
+        this.raza = raza.toUpperCase();
     }
 
     private void setTamanio() {
