@@ -2,6 +2,22 @@
 
 ## [Enlace meet](https://meet.google.com/vhx-sikp-tjv)
 
+### Día 59 - 18/02/2025
+- Hemos resuelto el ejercicio 2 de la *UD5: Relación2*.
+- Para casa:
+  - Ejercicios 3 y 4 de la *UD5: Relación2*.
+
+### Día 58 - 17/02/2025
+- Hemos implementado la clase `Faker` y hemos generado 100 estudiantes en el ejercicio 1 de la *UD5: Relación2*.
+- Para casa:
+  - Ejercicios 2 y 3 de la *UD5: Relación2*.
+
+### Día 57 - 14/02/2025
+- Hemos resuelto el ejercicio 1 de la *UD5: Relación2*.
+- Para casa:
+  - Implementar `Faker`.
+  - Generar 100 estudiantes en el ejercicio 1 de la *UD5: Relación2*.
+
 ### Día 56 - 13/02/2025
 - Hemos completado el extra del ejercicio 6.
 - Hemos resuelto los ejercicios 7 a 8 de la *UD5: Relación1*.
