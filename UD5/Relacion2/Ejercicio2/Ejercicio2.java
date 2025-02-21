@@ -33,7 +33,7 @@ public class Ejercicio2 {
     public static void inicializarBiblioteca() {
         miBiblioteca = new Biblioteca();
         for (int i = 0; i < CANTIDAD_LIBROS; i++) {
-            Libro aleatorio = new Libro(Faker.lorem(3), Faker.nombreCompleto(), "Faker.loremLargo()");
+    Libro aleatorio = new Libro(Faker.lorem(3), Faker.nombreCompleto(), "Faker.loremLargo()");
             miBiblioteca.agregarLibro(aleatorio);
         }
     }

@@ -2,6 +2,15 @@
 
 ## [Enlace meet](https://meet.google.com/vhx-sikp-tjv)
 
+### Día 61 - 21/02/2025
+- Hemos resuelto el ejercicio 3 y empezado el 4 de la *UD5: Relación2*.
+- Para casa:
+  - Ejercicios 5 de la *UD5: Relación2*.
+
+### Día 60 - 20/02/2025
+- Hemos resuelto parte del ejercicio 3 de la *UD5: Relación2*.
+- Hemos repasado el concepto de copia y referencia de ArrayList (La asignación con = hace referencia, si queremos copiar usamos .clone)
+
 ### Día 59 - 18/02/2025
 - Hemos resuelto el ejercicio 2 de la *UD5: Relación2*.
 - Para casa:
