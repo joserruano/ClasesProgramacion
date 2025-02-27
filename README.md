@@ -2,6 +2,10 @@
 
 ## [Enlace meet](https://meet.google.com/vhx-sikp-tjv)
 
+### Día 62 - 24/02/2025
+- Hemos completado los ejercicios 4 y 5 de la *UD5: Relación2*.
+- Hemos presentado el proyecto del segundo trimestre.
+
 ### Día 61 - 21/02/2025
 - Hemos resuelto el ejercicio 3 y empezado el 4 de la *UD5: Relación2*.
 - Para casa:

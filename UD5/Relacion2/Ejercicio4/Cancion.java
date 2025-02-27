@@ -16,8 +16,6 @@ public class Cancion {
         this.duracion = duracion;
     }
     
-
-
     public String getTitulo() {
         return this.titulo;
     }
@@ -25,18 +23,22 @@ public class Cancion {
         this.titulo = titulo;
     }
 
-    @Override
+    public int getDuracion(){
+        return this.duracion;
+    }
+
     public String toString() {
         return "Titulo: " + this.titulo + " | Artista: " + this.artista + " | Duración: " + this.duracion + '"';
     }
 
-    public static void main(String[] args) {
-        Cancion miCancionPorDefecto = new Cancion();
-        System.out.println(miCancionPorDefecto);
-        Cancion miCancion = new Cancion("Chicle de menta","Maria Daniela",186);
-        System.out.println(miCancion);
+    // public static void main(String[] args) {
 
-        miCancionPorDefecto.setTitulo("titulo");
-        System.out.println("El título de miCancionPorDefecto es: " + miCancionPorDefecto.getTitulo());
-    }
+    //     Cancion miCancionPorDefecto = new Cancion();
+    //     System.out.println(miCancionPorDefecto);
+    //     Cancion miCancion = new Cancion("Chicle de menta","Maria Daniela",186);
+    //     System.out.println(miCancion);
+
+    //     miCancionPorDefecto.setTitulo("titulo");
+    //     System.out.println("El título de miCancionPorDefecto es: " + miCancionPorDefecto.getTitulo());
+    // }
 }

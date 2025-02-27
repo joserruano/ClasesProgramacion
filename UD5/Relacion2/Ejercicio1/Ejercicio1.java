@@ -1,3 +1,5 @@
+import UD5.Relacion2.Ejercicio5.Faker;
+
 public class Ejercicio1 {
     public static void main(String[] args) {
         final int CANTIDAD_ALUMNOS = 100;
