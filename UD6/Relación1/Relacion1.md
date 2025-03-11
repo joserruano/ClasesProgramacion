@@ -39,7 +39,8 @@ Implementa una clase `Main` para probar la creación de objetos y la llamada a l
 ### 7. Transporte Público con Múltiples Modos
 **Enunciado:**  
 Define una interfaz `Transporte` con los métodos `arrancar()` y `detener()`. Cada método debe devolver una cadena indicando la acción realizada.  
-Luego, crea tres clases concretas: `Autobús`, `Metro` y `Bicicleta`. Cada clase debe implementar la interfaz y proporcionar una implementación específica para cada método según el tipo de transporte.  
+Luego, crea tres clases concretas: `Autobús`, `Metro` y `Bicicleta`. Cada clase debe implementar la interfaz y proporcionar una implementación específica para cada método según el tipo de transporte. En el caso de `Autobús`, se debe indicar la hora de salida al arrancar y la hora de parada al detener. En el caso de `Metro` se debe indicar el número de vagones al arrancar.
+
 Implementa una clase `Main` para probar la creación de objetos y la llamada a los métodos de la interfaz.
 
 ### 8. Juegos con Interfaz de Jugador
