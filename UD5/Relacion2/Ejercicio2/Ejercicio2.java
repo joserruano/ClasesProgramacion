@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+import UD5.Relacion2.Faker;
+
 public class Ejercicio2 {
     final static int CANTIDAD_LIBROS = 100;
     final static String OPCION_SALIDA = "5";

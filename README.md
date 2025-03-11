@@ -2,6 +2,13 @@
 
 ## [Enlace meet](https://meet.google.com/vhx-sikp-tjv)
 
+### Día 67 - 07/03/2025
+- Hemos explicado la tarea para la PT5, fechada para el jueves 13 de marzo.
+- Hemos visto Herencia en Java.
+- Hemos completado el ejercicio 1 de la *UD6: Relación1*.
+- Para casa:
+  - Ejercicios 2 y 3 de la *UD6: Relación1*.
+
 ### Día 62 - 24/02/2025
 - Hemos completado los ejercicios 4 y 5 de la *UD5: Relación2*.
 - Hemos presentado el proyecto del segundo trimestre.

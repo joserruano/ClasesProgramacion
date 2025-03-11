@@ -1,6 +1,8 @@
 
 import java.util.Scanner;
 
+import UD5.Relacion2.Faker;
+
 public class Ejercicio4 {
 
     public static PlayList misCanciones = new PlayList();
